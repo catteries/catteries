@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @catteries
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... NA
+- 🌱 I’m currently learning ... NA
+- 💞️ I’m looking to collaborate on ... NA
+- 📫 How to reach me ... NA
 
-<!---
-catteries/catteries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
