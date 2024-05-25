@@ -215,3 +215,10 @@
 ||ystat.*^$important
 ||zemanta.com^$important
 ||zergnet.com^$important
+||bestfunnyads.com^$important
+
+!!doh
+||doh.dns.apple.com^$important
+||doh.dns.apple.com.v.aaplimg.com^$important
+||firefox.dns.nextdns.io^$important
+
