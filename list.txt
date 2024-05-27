@@ -216,6 +216,8 @@
 ||zemanta.com^$important
 ||zergnet.com^$important
 ||bestfunnyads.com^$important
+||getter.cfd^important
+
 
 !!doh
 ||doh.dns.apple.com^$important
