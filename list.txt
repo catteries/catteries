@@ -13,6 +13,25 @@
 @@||static.voidboost.com^$important
 @@||streetviewpixels-pa.googleapis.com^$important
 !! Deny Block
+
+||ads-api.tiktok.com^$important
+||ads-sg.tiktok.com^$important
+||business-api.tiktok.com^$important
+||ads.tiktok.com^$important
+||log.byteoversea.com^$important
+||analytics.s3.amazonaws.com^$important
+||an.facebook.com^$important
+||ads-api.twitter.com^$important
+||udcm.yahoo.com^$important
+||analytics.query.yahoo.com^$important
+||log.fc.yahoo.com^$important
+||gemini.yahoo.com^$important
+||adtech.yahooinc.com^$important
+||offerwall.yandex.net^$important
+||appmetrica.yandex.ru^$important
+||bdapi-ads.realmemobile.com^$important
+||bdapi-in-ads.realmemobile.com^$important
+
 ||*-telemetry.unity3d.com^$important
 ||*.appsflyersdk.com^$important
 ||*click.ru^$important
