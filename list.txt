@@ -14,6 +14,7 @@
 @@||streetviewpixels-pa.googleapis.com^$important
 !! Deny Block
 
+||ibytedtos.com^$important
 ||collector.github.com^$important
 ||mcs.tiktokw.us^$important
 ||tiktokv.us^$important
