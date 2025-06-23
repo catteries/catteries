@@ -14,6 +14,9 @@
 @@||streetviewpixels-pa.googleapis.com^$important
 !! Deny Block
 
+||collector.github.com^$important
+||mcs.tiktokw.us^$important
+||tiktokv.us^$important
 ||ads-api.tiktok.com^$important
 ||ads-sg.tiktok.com^$important
 ||business-api.tiktok.com^$important
